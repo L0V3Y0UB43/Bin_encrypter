@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+ipch/
+*.pidb
+*.sdf
+*.opensdf
+*.tlog
+*.log
+*.lastbuildstate
+*.suo
+*.sln.docstates
+
+# Build outputs
+*.exe
+*.pdb
+*.obj
+*.iobj
+*.ipdb
+*.tlog
+*.bin
+
+# Other
+index.html
+
