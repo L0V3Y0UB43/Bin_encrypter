@@ -9,4 +9,4 @@ The program has a man.
 
 
 
-You have the option to store the payload in a source file or in a etern bin file.
+You have the option to store the payload in a source file or in a extern bin file.
